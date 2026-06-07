@@ -26,6 +26,7 @@ RESULTADOS_PRINCIPALES/
 │
 ├── CASO_PRACTICO_JOAN_VALDERRAMA_INOÑAN.pptx   ← Entregable final
 │
+├── LITERATURA: Investigaciones previas y análisis sectorial
 ├── ANÁLISIS_CARTERA/                            ← Optimización de portafolio
 │   ├── DATOS_SEMANALES_ACCIONES_IA.xlsx
 │   ├── DATOS_DAMODARAN_EQUITY_RISK_PREMIUM.xlsx
